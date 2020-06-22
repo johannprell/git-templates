@@ -1,0 +1,12 @@
+# IDE
+.vscode/
+.idea/
+*.sln
+*.csproj
+
+# Unity Project
+Logs/
+Temp/
+Library/
+Obj/
+Builds/

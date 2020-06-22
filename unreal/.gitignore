@@ -1,0 +1,18 @@
+# UE
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+# VS Code
+*/.vs
+
+# Rider for UE
+*/.idea
+
+# Visual Studio
+*.VC.db
+
+# Solution file
+*.sln
